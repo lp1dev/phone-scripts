@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+NoDisplay=true
+Exec=chromium --ozone-platform=wayland --enable-features=UseOzonePlatform --kiosk https://protonmail.com
+Name=Protonmail Web
+Comment=Custom definition for Protonmail Web
+Icon=protonmail

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+NoDisplay=true
+Exec=chromium --ozone-platform=wayland --enable-features=UseOzonePlatform  --kiosk https://web.whatsapp.com
+Name=Whatsapp Web
+Comment=Custom definition for Whatsapp Web
+Icon=whatsapp
