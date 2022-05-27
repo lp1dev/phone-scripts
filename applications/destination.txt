@@ -1,0 +1,2 @@
+/usr/share/applications 
+https://linmob.net/phosh-0-12-app-drawer/
