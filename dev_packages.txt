@@ -1,0 +1,1 @@
+htop strace radare2 docker docker-compose
