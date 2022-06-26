@@ -1,0 +1,24 @@
+[global_config]
+  borderless = True
+  hide_from_taskbar = True
+[keybindings]
+[profiles]
+  [[default]]
+    icon_bell = False
+    background_color = "#002b36"
+    cursor_color = "#aaaaaa"
+    font = Source Code Pro Medium 14
+    foreground_color = "#839496"
+    show_titlebar = False
+    scrollbar_position = hidden
+    scrollback_infinite = True
+    use_system_font = False
+[layouts]
+  [[default]]
+    [[[window0]]]
+      type = Window
+      parent = ""
+    [[[child1]]]
+      type = Terminal
+      parent = window0
+[plugins]
